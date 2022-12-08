@@ -11,3 +11,7 @@ Na każdej stronie internetowej w domenie uni.lodz.pl oraz w jej subdomenach (st
 5. Po przełączeniu, rozwinie się nowe menu z zakładkami. Kliknij na przycisk "Załaduj rozpakowane" i wybierz folder **ChristmasExtension**.
 6. Nowe rozszerzenie pt. **Mikołajki z WFIS UŁ** pojawi się na liście zainstalowanych rozszerzeń. Upewnij się, że jest włączone.
 7. To wszystko! Możesz teraz przejść na stronę Uczelni lub swojego Wydziału i sprawdzić świąteczny efekt!
+
+### Wykorzystane zasoby
+Ikony i grafiki: *pngegg.com*, *icons8.com*  
+Hosting zdjęć: *imgbb.com*
