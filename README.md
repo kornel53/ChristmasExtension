@@ -1,8 +1,8 @@
 # Christmas Extension / Mikołajki z WFIS UŁ
 ## Opis
-Rozszerzenie do przeglądarki Google Chrome stworzone na potrzeby konkursu mikołajkowego pt. "Kod pod choinkę" organizowanego przez Wydział Fizyki i Informatyki Stosowanej Uniwersytetu Łódzkiego.
+ChristmasExtension to proste rozszerzenie do przeglądarki Google Chrome stworzone na potrzeby konkursu mikołajkowego pt. "Kod pod choinkę" zorganizowanego przez WRSS na Wydziale Fizyki i Informatyki Stosowanej Uniwersytetu Łódzkiego.
 ## Jak to działa?
-Na każdej stronie internetowej w domenie uni.lodz.pl oraz w jej subdomenach (strony Wydziałów) generowane są gałązki choinki wraz z animacją lampkek choinkowych. Podczas poruszania się po stronie, osobiście towarzystwa dotrzymuje nam Święty Mikołaj na saniach wraz z jednym z jego reniferów. Odpowiednio zmieniając zwrot i kierunek podąża za kursorem użytkownika. 
+Na każdej stronie internetowej w domenie uni.lodz.pl oraz w jej subdomenach (strony Wydziałów) dodane są gałązki choinki wraz z animacją lampek choinkowych. Podczas poruszania się po stronie, osobiście towarzystwa dotrzymuje nam Święty Mikołaj na saniach wraz z jednym z jego reniferów. Cały czas podąża za kursorem użytkownika, odpowiednio zmieniając zwrot i kierunek jazdy.
 ## Jak to uruchomić?
 1. Wymagana jest aktualna przeglądarka Google Chrome.
 2. Pobierz lub sklonuj repozytorium na swój dysk lokalny.
