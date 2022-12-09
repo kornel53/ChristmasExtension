@@ -1,0 +1,26 @@
+{
+	"manifest_version": 3,
+	"name": "Mikołajki z WFIS UŁ",
+	"description": "Świąteczny efekt na stronach Uniwersytetu Łódzkiego oraz wszystkich Wydziałów.",
+	"author" : "Korneliusz Krawczyk",
+	"version": "3.14",
+	"icons": {
+		"48": "images/christmas-48.png",
+		"96": "images/christmas-96.png"
+	},
+
+	"action": {
+		"default_icon": {
+			"48": "images/christmas-48.png",
+			"96": "images/christmas-96.png"
+		}
+	},
+	"content_scripts": [{
+		"matches": ["https://www.uni.lodz.pl/*" , "https://*.uni.lodz.pl/*"],
+		"js": ["scripts/jquery-3.6.1.min.js", "scripts/gsap.min.js",  "scripts/trees_and_lights.js", "scripts/santa.js"],
+		"css": ["css/style.css"],
+		"run_at": "document_end"
+	}]
+	
+
+}
